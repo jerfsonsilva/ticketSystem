@@ -1,0 +1,28 @@
+.text-right {
+    text-align: right;
+}
+
+a {
+    color: #050505;
+    text-decoration: none;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.icon-input-group input {
+    padding-left: 27px;
+}
+
+.icon-input-group svg {
+    position: relative;
+    top: -26px;
+    left: 8px;
+    display: block;
+}
+
+body {
+    background: rgb(36, 143, 153);
+    background: linear-gradient(90deg, rgba(36, 143, 153, 1) 0%, rgba(6, 68, 74, 1) 83%);
+}

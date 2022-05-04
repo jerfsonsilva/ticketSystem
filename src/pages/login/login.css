@@ -1,0 +1,30 @@
+.content-login {
+    background-color: aliceblue;
+    padding: 21px;
+    border-radius: 8px;
+    box-shadow: 4px 5px 3px #06444a;
+    margin-top: 30vh;
+    width: 64vh;
+}
+
+.content-login .logo {
+    margin-top: 5vh;
+}
+
+.content-login button {
+    background-color: #06444a;
+    color: white;
+}
+
+.content-login a {
+    color: #06444a;
+    margin-top: -10px;
+}
+
+.content-login a:hover {
+    color: #0d5056;
+}
+
+.content-login .register {
+    margin-top: -14px;
+}
